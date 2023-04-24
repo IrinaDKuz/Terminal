@@ -202,7 +202,7 @@
     
 22) Write a script for automation running items: 3, 4, 5, 6, 7, 8, 13
 
-You can see the script code [scriptForHW1.sh](https://github.com/IrinaDKuz/Terminal/blob/main/scriptForHW1.sh.)
+You can see the script code here: [scriptForHW1.sh](https://github.com/IrinaDKuz/Terminal/blob/main/scriptForHW1.sh)
 
 *Note: to run this script from the directory where the file is located, use `bash script.sh` on Terminal*
 
