@@ -114,9 +114,6 @@
     ```
     Irina@MacBook-Pro-Aleksandr-2 01_Terminal % mv folder_1/file1.json folder_1/file2.json folder_2
     ```
-    *Tip:
-    For moving a large number of files, use the `-t` option, it can make the command easier to read and less error-prone.
-    ```mv -t my_files/ file1.txt file2.txt```*
 
 14) Copy any 2 files to any folder:
 
