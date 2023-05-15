@@ -83,7 +83,7 @@
 
 12) Выйти из папки на уровень выше:
 
-    Use the `cd ..` (or `cd ../..`) command.
+    Use the `cd ..` (or `cd ../..`, `../folder1 `) command.
     ```
     Irina@MacBook-Pro-Aleksandr-2 folder_1 % cd ..
     ```
@@ -393,6 +393,10 @@ mkdir inner_dir_1_2 && grep -rlw "sec" . | xargs -I % cp % ./inner_dir_1_2/
 38. Команда в одну строку. Найти все строки c “sec” во всех текстовых файлах, скопировать и вставить эти строки в один новый созданный текстовый файл.
 ```
 grep -r -h "sec" . | xargs -I % echo % >> NewFile.txt
+```
+или
+```
+grep -r -h "sec" . > NewFile.txt
 ```
 
 39. Команда в одну строку. Удалить текстовые файлы у которых в содержимом есть слово “sec”
