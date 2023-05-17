@@ -1,3 +1,5 @@
+![Картинка](https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg)
+
 ## Linux terminal (GitBash) commands
 
 ### HomeWork 1:
